@@ -1,0 +1,57 @@
+
+
+#heidow, #width {
+
+height :20%;
+width :95%;
+
+
+}
+
+#width {
+
+border-radius : 10px;
+
+}
+
+#heidow{
+
+    border-radius: 20px;
+
+}
+
+body{
+
+    background: #A89708;
+
+}
+
+.btn-primary{
+
+    background: #1194A8;
+    
+}
+
+.btn-info{
+
+    background:#00D4F5;
+
+}
+
+canvas {
+
+    border-radius : 15px;
+    border:solid 8px #F51882 ; 
+    }
+
+#copyright{
+
+    position:fixed;
+    bottom:10px;
+    width:100%;
+}
+
+video {
+    border-radius : 15px;
+    border:solid 8px #555555 ; 
+}
